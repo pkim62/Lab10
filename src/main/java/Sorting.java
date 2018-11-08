@@ -33,6 +33,11 @@ public class Sorting {
      */
     @SuppressWarnings("unused")
     private static int[] bubbleSort(final int[] array) {
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] > array[i - 1]) {
+                
+            }
+        }
         return null;
     }
 
